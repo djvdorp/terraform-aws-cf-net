@@ -35,6 +35,7 @@ variable "aws_ubuntu_ami" {
         ap-southeast-1 = "ami-2ce7c07e"
         ap-southeast-2 = "ami-1f117325"
         eu-west-1 = "ami-f6b11181"
+        eu-central-1 = "ami-423c0a5f"
         sa-east-1 = "ami-71d2676c"
     }
 }
@@ -48,6 +49,7 @@ variable "aws_centos_ami" {
         ap-southeast-1 = "ami-dcbeed8e"
         ap-southeast-2 = "ami-89e88db3"
         eu-west-1 = "ami-af6faad8"
+        eu-central-1 = "ami-12ccfa0f"
         sa-east-1 = "ami-73ee416e"
     }
 }
